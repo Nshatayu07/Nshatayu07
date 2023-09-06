@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shatayu Nagdeve</h1>
-<h3 align="center">A passionate about DSA and problem solving and also in learning new tech and gaining new skills.</h3>
+<h3 align="center">A passionate student with knowledge of GitHub, DSA, problem solving, and frontend development and also keem in learning new tech and gaining new skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nshatayu07&label=Profile%20views&color=0e75b6&style=flat" alt="nshatayu07" /> </p>
 
